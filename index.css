@@ -1,0 +1,150 @@
+body {
+  background-color: E9F7;
+  color: #fff;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+
+h3{
+  font-family: 'Montserrat',sans-serif;
+
+}
+
+h2 {
+  font-family: 'Montserrat',sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+#header {
+  background-color: #333;
+  color: #fff;
+}
+
+.div1 {
+  padding-left: 40px;
+  padding-right: 20px;
+}
+.div2 {
+  background-color: #333;
+  color: #000;
+}
+.div3 {
+  background-color:#333;
+  color: #000;
+}
+.div4 {
+  background-color:;
+  color: #000;
+}
+
+/*
+ * Header
+ */
+.masthead {
+  margin-bottom: 2rem;
+}
+
+.masthead-brand {
+  margin-bottom: 0;
+}
+
+.nav-masthead .nav-link {
+  padding: .25rem 0;
+  font-weight: 700;
+  color: rgba(255, 255, 255, .5);
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: rgba(255, 255, 255, .25);
+}
+
+.nav-masthead .nav-link+.nav-link {
+  margin-left: 1rem;
+}
+
+.nav-masthead .active {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+@media (min-width: 48em) {
+  .masthead-brand {
+    float: left;
+  }
+
+  .nav-masthead {
+    float: right;
+  }
+}
+.cover-container {
+  max-width: 42em;
+}
+footer{
+  text-align: center;
+  color: #000;\
+  scroll-behavior: smooth;
+  background-color:#
+  ;
+  height: 5rem;
+}
+
+img{
+  margin-left: 7rem;
+  width: 500px;
+  height: 500px;
+  /* padding-top: 5px; */
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+
+
+/*-------- Feature Section-------*/
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+/* .icon {
+  color: #ef8172;
+  margin: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+} */
+
+
+
+/* softwareuse */
+#softwareuse{
+  padding: 7% 15%;
+  background-color: #333;
+  position: relative;
+
+}
+.softwareuse-box {
+  text-align: center;
+  padding: 5%;
+}
+
+
+a{
+  color: #fff;
+}
